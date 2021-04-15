@@ -11,6 +11,11 @@ a [Sails v1](https://sailsjs.com) application
 - Cuando empezemos a codificar cada vez que realizemos un cambio por lo general vamos a tener que detener y reiniciar el proyecto. Si queremos que esto sea de forma automatica tenemos que instalar nodemon. Luego en vez de usar node app.js simplemente escribimos nodemon y enter.
 - Sails provee su ORM llamado Waterline este a su vez se conecta a varias bases de datos (MySQL, PostgreSQL, MongoDB, etc)
 
+
+### Fuente
+
+El presente proyecto esta basado en el [tutorial](https://www.youtube.com/playlist?list=PL0dzCUj1L5JHV0pF04MmtgdALjhR70Lzj)
+
 ### Links
 
 + [Sails framework documentation](https://sailsjs.com/get-started)
